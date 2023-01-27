@@ -1,0 +1,46 @@
+body{
+    background-color: #D5E1EF;
+    display: flex;
+    height: 100vh;
+}
+
+div{
+    background-color: white;
+    width: 320px;
+    padding: 16px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+img{
+    max-width:100%;
+    width: 328px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+p{
+    margin: 0 16px;
+    font-weight: 400;
+    color: #7D889E;
+    line-height: 19px;
+    letter-spacing: 0.1875px;
+}
+
+h1{
+    font-weight: 700;
+    line-height: 28px;
+    font-size: 22px;
+    font-style: normal;
+    color: #1F314F;
+    height: 56px;
+    width: 288px;
+    margin: 24px auto 16px auto;
+    letter-spacing: 1px;
+}
+
+p, h1{
+    font-family: 'Outfit', 'sans-serif';
+    font-style: normal;
+    text-align: center;
+}
